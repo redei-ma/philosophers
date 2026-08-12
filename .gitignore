@@ -1,0 +1,24 @@
+# build artifacts
+*.o
+*.a
+*.d
+*.gch
+*.dSYM/
+a.out
+philo/philo
+philo_bonus/philo_bonus
+
+# debugging leftovers
+core
+vgcore.*
+*.supp
+
+# tooling and editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# macOS
+.DS_Store
+._*
